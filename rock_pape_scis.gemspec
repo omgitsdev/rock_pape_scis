@@ -1,4 +1,4 @@
-# coding: utf-8
+ coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rock_pape_scis/version'
@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Dev Sethi"]
   spec.email         = ["omgitsdev@gmail.com"]
   spec.summary       = %q{Rock Paper Scissors}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = 
   spec.homepage      = ""
   spec.license       = "MIT"
 
